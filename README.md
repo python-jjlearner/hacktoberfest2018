@@ -90,6 +90,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | [Mansi Breja](https://github.com/MansiBreja) | III | CSE | [@MansiBreja](https://hacktoberfest.digitalocean.com/stats/MansiBreja) |
 | [Prince Jhabak](https://github.com/Princejhabak/) | III | CSE | [@Princejhabak](https://hacktoberfest.digitalocean.com/stats/Princejhabak) |
 | Aakash Khaksa | II | IT | |
+| Jayesh Joshi | II | CSE | |
 | Hardik Mundra | II | IT | |
 | [Shivam Pokhriyal](https://github.com/fs0sp) | II | CSE |[@fs0sp](https://hacktoberfest.digitalocean.com/stats/fs0sp) |
 | Ashik Paul | II | CSE | |
